@@ -6,6 +6,7 @@
 # Nome: Marco Bertolo
 # Numero: 2023127
 # Turma: Turma A Diurno
+# usar o pip install keyboard para o keyboard
 
 #Importacoes para fazer o random, o sleep, o cls e o key sencitive
 import random
